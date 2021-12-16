@@ -1,0 +1,22 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  border-bottom: 1px solid #e3e3e3;
+  background-color: whitesmoke;
+  padding: 0 20px;
+}
+a {
+  margin-left: 20px;
+}
+body {
+  min-height: 100vh;
+  background-color: aliceblue;
+}
+footer {
+  height: 40px;
+  text-align: center;
+  width: 100%;
+  background-color: #fff;
+}
