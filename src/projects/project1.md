@@ -13,5 +13,5 @@ lorem ipsum dolor si amet
 ```
 git status
 git add
-git
+git pro 1
 ```
